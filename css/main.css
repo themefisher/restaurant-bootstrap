@@ -123,6 +123,10 @@ a:active {
 --*/
 #hero-area {
   position: relative;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
 #hero-area:before {
   content: "";
