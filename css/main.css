@@ -612,6 +612,10 @@ nav .block .navbar-default .navbar-nav > .active > a:hover:before {
 #footer .block h3 {
   color: #2E2E2E;
   padding-bottom: 25px;
+  font-size: 30px;
+}
+#footer h4 {
+  font-size: 26px;
 }
 #footer .block h3 span {
   color: #FF4F02;
@@ -653,7 +657,7 @@ nav .block .navbar-default .navbar-nav > .active > a:hover:before {
 #footer .block .info ul li p,
 #footer .block .gallary ul li p {
   color: #474747;
-  font-size: 14px;
+  font-size: 20px;
 }
 #footer .block .social-media-link h3 {
   font-size: 20px;
