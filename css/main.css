@@ -102,16 +102,7 @@ a:active {
   color: #ff530a;
   font-weight: 600;
 }
-.custom-header:before {
-  content: "";
-  position: absolute;
-  left: 50%;
-  bottom: 0;
-  width: 140px;
-  height: 1px;
-  background: #C8C1B3;
-  margin-left: -70px;
-}
+
 /*--
     custom heading Start
 --*/
