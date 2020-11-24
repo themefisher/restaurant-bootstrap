@@ -707,7 +707,7 @@ nav .block .navbar-default .navbar-nav > .active > a:hover:before {
 #footer-bottom p a {
   color: #FF4F02;
 }
-#footer-contact {
-  padding-left: 150px;
-  padding-right: 150px;
+
+#logo-lv {
+  width: 100%;
 }
