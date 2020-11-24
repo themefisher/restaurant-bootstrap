@@ -88,6 +88,20 @@ a:active {
   background: #C8C1B3;
   margin-left: -70px;
 }
+
+/* custom header for price section */
+.custom-header {
+  text-align: center;
+  font-weight: 500;
+  color: #2E2E2E;
+  padding: 40px 0px;
+  position: relative;
+}
+.custom-header span {
+  font-size: 45px;
+  color: #ff530a;
+  font-weight: 600;
+}
 /*--
     custom heading Start
 --*/
