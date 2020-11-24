@@ -508,9 +508,9 @@ nav .block .navbar-default .navbar-nav > .active > a:hover:before {
     subscribe Start
 --*/
 #subscribe {
-  padding: 300px 0px;
+  padding: 150px 0px;
   text-align: center;
-  background: url("../images/subscribe-bg.jpg");
+  background: url("../images/subscribe-bg.png");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
